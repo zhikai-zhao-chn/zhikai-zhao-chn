@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zhikai-zhao-chn
-- 👀 I’m interested in SLAM & Robotics
+- 👀 I’m interested in AI & Robotics
 - 📫 Reach me: zhikai-zhao-chn@outlook.com
 
 <!---
